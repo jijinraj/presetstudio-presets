@@ -9,7 +9,7 @@
       "name": "Warm Film",
       "author": "Jijin",
       "revision": 1,
-      "preset": "presets/warm-film.presetstudio.json"
+      "preset": "presets/warm-film.presetstudio"
     }
   ]
 }
