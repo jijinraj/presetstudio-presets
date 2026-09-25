@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "d9820f3a-5b79-4dfe-b13e-9ea0c4bd210b",
+  "name": "Urban Grit",
+  "description": "Punchy urban mood with stronger depth.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": -0.1,
+    "contrast": 24,
+    "highlights": -18,
+    "shadows": 6,
+    "whites": 6,
+    "blacks": -20,
+    "temperature": -4,
+    "tint": 0,
+    "vibrance": 8,
+    "saturation": -6
+  }
+}

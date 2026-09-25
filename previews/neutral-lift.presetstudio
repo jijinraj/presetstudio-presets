@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "1f6a9dbe-3c2f-4d12-8d86-0a72c8e98101",
+  "name": "Neutral Lift",
+  "description": "A gentle clean lift for everyday images.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.2,
+    "contrast": 8,
+    "highlights": -10,
+    "shadows": 12,
+    "whites": 4,
+    "blacks": -6,
+    "temperature": 2,
+    "tint": 0,
+    "vibrance": 10,
+    "saturation": 2
+  }
+}

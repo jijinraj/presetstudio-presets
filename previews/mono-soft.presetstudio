@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "a4b7ef5d-57ca-43f4-8af7-f406badc8711",
+  "name": "Mono Soft",
+  "description": "Soft monochrome with open shadows.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.1,
+    "contrast": 8,
+    "highlights": -18,
+    "shadows": 16,
+    "whites": 4,
+    "blacks": -10,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 0,
+    "saturation": -100
+  }
+}

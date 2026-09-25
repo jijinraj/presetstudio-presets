@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "3fd14ab8-8291-47b6-90df-7c8e9a2b9909",
+  "name": "Moody Teal",
+  "description": "Cool cinematic mood with subdued warmth.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": -0.05,
+    "contrast": 18,
+    "highlights": -24,
+    "shadows": 10,
+    "whites": -10,
+    "blacks": -14,
+    "temperature": -18,
+    "tint": -2,
+    "vibrance": 10,
+    "saturation": -8
+  }
+}

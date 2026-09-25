@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "9e2d7403-14c6-4b99-a44e-6b7d8f1a8808",
+  "name": "Deep Matte",
+  "description": "Moody matte-style look with softer highlights.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": -0.1,
+    "contrast": 16,
+    "highlights": -26,
+    "shadows": 16,
+    "whites": -18,
+    "blacks": 6,
+    "temperature": -2,
+    "tint": 0,
+    "vibrance": 8,
+    "saturation": -10
+  }
+}

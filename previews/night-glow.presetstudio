@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "d7ea1280-8afd-46c7-bd2a-2739edfa1a14",
+  "name": "Night Glow",
+  "description": "A moody night look with protected highlights and richer depth.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": -0.08,
+    "contrast": 20,
+    "highlights": -30,
+    "shadows": 10,
+    "whites": -6,
+    "blacks": -18,
+    "temperature": -6,
+    "tint": 3,
+    "vibrance": 18,
+    "saturation": -2
+  }
+}

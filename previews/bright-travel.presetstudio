@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "57d3a4bf-1384-4aab-a7a3-b0c2e6df430d",
+  "name": "Bright Travel",
+  "description": "Bright and colorful travel-ready treatment.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.28,
+    "contrast": 10,
+    "highlights": -14,
+    "shadows": 14,
+    "whites": 10,
+    "blacks": -10,
+    "temperature": 6,
+    "tint": 1,
+    "vibrance": 22,
+    "saturation": 8
+  }
+}

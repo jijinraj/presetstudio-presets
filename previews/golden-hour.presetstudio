@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "e7ab1491-6f57-4d73-b67e-4f2b8c5d6606",
+  "name": "Golden Hour",
+  "description": "Warm golden tones with rich glow-like color balance.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.18,
+    "contrast": 6,
+    "highlights": -18,
+    "shadows": 10,
+    "whites": 6,
+    "blacks": -8,
+    "temperature": 18,
+    "tint": 3,
+    "vibrance": 18,
+    "saturation": 6
+  }
+}
