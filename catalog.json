@@ -1,0 +1,15 @@
+{
+  "format": "presetstudio.catalog",
+  "schemaVersion": 1,
+  "name": "PresetStudio Presets",
+  "description": "Default PresetStudio preset collection.",
+  "presets": [
+    {
+      "id": "8d8b5a34-75a9-4f3a-a1c8-e3d95f986d4b",
+      "name": "Warm Film",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/warm-film.presetstudio.json"
+    }
+  ]
+}
