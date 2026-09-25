@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "71e4bc2a-2497-4b61-9cb4-c1d3f7ea540e",
+  "name": "Forest Mood",
+  "description": "Cool earthy outdoor mood with richer depth.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": -0.05,
+    "contrast": 14,
+    "highlights": -20,
+    "shadows": 12,
+    "whites": -8,
+    "blacks": -12,
+    "temperature": -6,
+    "tint": -4,
+    "vibrance": 14,
+    "saturation": -4
+  }
+}

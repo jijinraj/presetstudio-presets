@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "82f5cd3b-35a8-41d2-a8d5-d2e4f8ab650f",
+  "name": "Coastal Cool",
+  "description": "Fresh cool tones suited for sea and sky scenes.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.18,
+    "contrast": 4,
+    "highlights": -16,
+    "shadows": 10,
+    "whites": 8,
+    "blacks": -6,
+    "temperature": -10,
+    "tint": 1,
+    "vibrance": 16,
+    "saturation": 2
+  }
+}

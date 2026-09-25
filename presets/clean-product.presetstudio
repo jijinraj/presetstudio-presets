@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "0c5a18de-84f2-4e9f-97d2-afb1d5ce320c",
+  "name": "Clean Product",
+  "description": "Clean bright presentation for products and objects.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.22,
+    "contrast": 6,
+    "highlights": -8,
+    "shadows": 8,
+    "whites": 14,
+    "blacks": -6,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 4,
+    "saturation": 0
+  }
+}

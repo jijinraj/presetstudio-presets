@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "b6c42d9e-7e31-4428-88a1-8d9f0b3ca10a",
+  "name": "Vintage Fade",
+  "description": "A faded nostalgic look with softened contrast.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.12,
+    "contrast": -10,
+    "highlights": -20,
+    "shadows": 14,
+    "whites": -12,
+    "blacks": 10,
+    "temperature": 12,
+    "tint": 4,
+    "vibrance": 4,
+    "saturation": -14
+  }
+}

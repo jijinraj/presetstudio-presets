@@ -3,20 +3,20 @@
   "schemaVersion": 1,
   "id": "8d8b5a34-75a9-4f3a-a1c8-e3d95f986d4b",
   "name": "Warm Film",
-  "description": "A gentle warm film-inspired look with softer highlights and restrained saturation.",
+  "description": "Warm film-inspired tones with softened highlights.",
   "author": "Jijin",
   "createdAt": "2026-09-25T00:00:00.000Z",
   "revision": 1,
   "adjustments": {
     "exposure": 0.15,
-    "contrast": 12.0,
-    "highlights": -22.0,
-    "shadows": 10.0,
-    "whites": -6.0,
-    "blacks": -10.0,
-    "temperature": 10.0,
-    "tint": 2.0,
-    "vibrance": 16.0,
-    "saturation": -4.0
+    "contrast": 12,
+    "highlights": -22,
+    "shadows": 10,
+    "whites": -6,
+    "blacks": -10,
+    "temperature": 10,
+    "tint": 2,
+    "vibrance": 16,
+    "saturation": -4
   }
 }

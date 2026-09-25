@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "c2a6f890-3c84-4bb1-a9a3-3e914cb7f505",
+  "name": "Soft Portrait",
+  "description": "Soft, flattering portrait treatment with lifted shadows.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.25,
+    "contrast": -6,
+    "highlights": -24,
+    "shadows": 18,
+    "whites": -4,
+    "blacks": -4,
+    "temperature": 8,
+    "tint": 4,
+    "vibrance": 8,
+    "saturation": -2
+  }
+}

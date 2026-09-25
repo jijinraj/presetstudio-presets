@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "93a6de4c-46b9-42e3-b9e6-e3f5a9bc7610",
+  "name": "Sunset Pop",
+  "description": "Warm vibrant tones ideal for sunsets and evening light.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.12,
+    "contrast": 12,
+    "highlights": -20,
+    "shadows": 8,
+    "whites": 4,
+    "blacks": -10,
+    "temperature": 20,
+    "tint": 6,
+    "vibrance": 24,
+    "saturation": 10
+  }
+}

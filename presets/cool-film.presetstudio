@@ -1,0 +1,22 @@
+{
+  "format": "presetstudio.preset",
+  "schemaVersion": 1,
+  "id": "a1d34e98-0ddf-45db-8f0d-2d3a7db45304",
+  "name": "Cool Film",
+  "description": "A cooler film-style look with restrained color.",
+  "author": "Jijin",
+  "createdAt": "2026-09-25T00:00:00.000Z",
+  "revision": 1,
+  "adjustments": {
+    "exposure": 0.05,
+    "contrast": 10,
+    "highlights": -20,
+    "shadows": 14,
+    "whites": -8,
+    "blacks": -8,
+    "temperature": -12,
+    "tint": 2,
+    "vibrance": 10,
+    "saturation": -8
+  }
+}
