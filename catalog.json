@@ -5,11 +5,144 @@
   "description": "Default PresetStudio preset collection.",
   "presets": [
     {
+      "id": "1f6a9dbe-3c2f-4d12-8d86-0a72c8e98101",
+      "name": "Neutral Lift",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/neutral-lift.presetstudio"
+    },
+    {
+      "id": "6e5b7c14-2f1a-4fa7-9d71-14e93d4b8202",
+      "name": "Crisp Everyday",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/crisp-everyday.presetstudio"
+    },
+    {
       "id": "8d8b5a34-75a9-4f3a-a1c8-e3d95f986d4b",
       "name": "Warm Film",
       "author": "Jijin",
       "revision": 1,
       "preset": "presets/warm-film.presetstudio"
+    },
+    {
+      "id": "a1d34e98-0ddf-45db-8f0d-2d3a7db45304",
+      "name": "Cool Film",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/cool-film.presetstudio"
+    },
+    {
+      "id": "c2a6f890-3c84-4bb1-a9a3-3e914cb7f505",
+      "name": "Soft Portrait",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/soft-portrait.presetstudio"
+    },
+    {
+      "id": "e7ab1491-6f57-4d73-b67e-4f2b8c5d6606",
+      "name": "Golden Hour",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/golden-hour.presetstudio"
+    },
+    {
+      "id": "4bc8e7d2-9a3f-45e4-8d88-5a2c6b7f7707",
+      "name": "Airy Pastel",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/airy-pastel.presetstudio"
+    },
+    {
+      "id": "9e2d7403-14c6-4b99-a44e-6b7d8f1a8808",
+      "name": "Deep Matte",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/deep-matte.presetstudio"
+    },
+    {
+      "id": "3fd14ab8-8291-47b6-90df-7c8e9a2b9909",
+      "name": "Moody Teal",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/moody-teal.presetstudio"
+    },
+    {
+      "id": "b6c42d9e-7e31-4428-88a1-8d9f0b3ca10a",
+      "name": "Vintage Fade",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/vintage-fade.presetstudio"
+    },
+    {
+      "id": "d9820f3a-5b79-4dfe-b13e-9ea0c4bd210b",
+      "name": "Urban Grit",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/urban-grit.presetstudio"
+    },
+    {
+      "id": "0c5a18de-84f2-4e9f-97d2-afb1d5ce320c",
+      "name": "Clean Product",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/clean-product.presetstudio"
+    },
+    {
+      "id": "57d3a4bf-1384-4aab-a7a3-b0c2e6df430d",
+      "name": "Bright Travel",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/bright-travel.presetstudio"
+    },
+    {
+      "id": "71e4bc2a-2497-4b61-9cb4-c1d3f7ea540e",
+      "name": "Forest Mood",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/forest-mood.presetstudio"
+    },
+    {
+      "id": "82f5cd3b-35a8-41d2-a8d5-d2e4f8ab650f",
+      "name": "Coastal Cool",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/coastal-cool.presetstudio"
+    },
+    {
+      "id": "93a6de4c-46b9-42e3-b9e6-e3f5a9bc7610",
+      "name": "Sunset Pop",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/sunset-pop.presetstudio"
+    },
+    {
+      "id": "a4b7ef5d-57ca-43f4-8af7-f406badc8711",
+      "name": "Mono Soft",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/mono-soft.presetstudio"
+    },
+    {
+      "id": "b5c8f06e-68db-44a5-9b08-0517cbed9812",
+      "name": "Mono Punch",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/mono-punch.presetstudio"
+    },
+    {
+      "id": "c6d9017f-79ec-45b6-ac19-1628dcef0913",
+      "name": "Dreamy Fade",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/dreamy-fade.presetstudio"
+    },
+    {
+      "id": "d7ea1280-8afd-46c7-bd2a-2739edfa1a14",
+      "name": "Night Glow",
+      "author": "Jijin",
+      "revision": 1,
+      "preset": "presets/night-glow.presetstudio"
     }
   ]
 }
